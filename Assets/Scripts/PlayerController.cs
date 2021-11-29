@@ -72,7 +72,7 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         CheckInput();
-        JoystickMove();
+        //JoystickMove();
         CheckMovementDirection();
         UpdateAnimations();
         CheckIfCanJump();
