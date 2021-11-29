@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: efc9f45e19b238547ae1915bacc59ff2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Brighly Crush
+  fontNames:
+  - Brighly Crush
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 743a37557b5b4c84c9fa9c20a4046db0, type: 3}
+  - {fileID: 12800000, guid: 4d2ef4a9813ff82438e5f50a5bdb849b, type: 3}
+  - {fileID: 12800000, guid: b9fbcfccb8015294f88d39b5ba4625a8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
